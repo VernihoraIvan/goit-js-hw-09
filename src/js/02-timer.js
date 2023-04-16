@@ -5,7 +5,6 @@ flatpickr('#datetime-picker', {
   enableTime: true,
   enableSeconds: true,
   dateFormat: 'Y-m-d H:i:S',
-  enableTime: true,
   time_24hr: true,
   defaultDate: new Date(),
   minuteIncrement: 1,
